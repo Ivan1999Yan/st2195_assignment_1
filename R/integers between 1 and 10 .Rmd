@@ -1,0 +1,17 @@
+---
+title: "Hello"
+output:
+  pdf_document: default
+  html_document: default
+date: "2023-02-12"
+---
+
+## R Markdown
+
+# print all integers between 1 and 10
+
+print(1:10)
+seq(1,10)
+rep(1:10,1)
+
+
